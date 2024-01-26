@@ -32,9 +32,3 @@ Feel free to customize AskHerOut.js to make it even more special:
 
 - Edit the prompt question and messages in the JavaScript code to add your personal touch.
 - Customize the styling and appearance of the app by modifying the HTML and CSS files.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-Feel free to replace `your-username` with your GitHub username, and update the contact information and social media handles to suit your preferences. You can also add more sections, badges, or images to make it even swaggier!
