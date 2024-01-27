@@ -7,7 +7,7 @@ function startQuestions() {
       document.getElementById("que").style.display = "none";
       document.getElementById("init").innerText = "Haha Great🫶🏻🎉";
     document.getElementById("message").style.display = "block";
-    document.getElementById("messageText").innerText = "I believe in love at first sight too😂! How about we go to eat icecream🤧 and Go for a long drive🐼";
+    document.getElementById("messageText").innerText = "I was a non-believer in love at first sight.But you changed my thoughts🤧🫣! How about we go to eat icecream🤧 And Go for a long drive🐼 LET'S FIND SOME BEAUTIFUL PLACES🎠🎡TO GET LOST TOGETHER🥺 and I will be waiting a moment when we sit on the Hill⛰️and see the moon🌙together";
 }
   
   function answerNo() {
